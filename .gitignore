@@ -1,0 +1,19 @@
+# Project exclude paths
+/node_modules/
+/node_modules/balanced-match/
+/node_modules/brace-expansion/
+/node_modules/minimatch/
+/node_modules/nodemon/
+/node_modules/simple-update-notifier/build/index.js
+/node_modules/simple-update-notifier/LICENSE
+/node_modules/simple-update-notifier/README.md
+/project/node_modules/
+/project/node_modules/balanced-match/
+/project/node_modules/brace-expansion/
+/project/node_modules/express/LICENSE
+/project/node_modules/express/Readme.md
+/project/node_modules/minimatch/
+/project/node_modules/nodemon/
+/project/node_modules/simple-update-notifier/build/index.js
+/project/node_modules/simple-update-notifier/LICENSE
+/project/node_modules/simple-update-notifier/README.md
